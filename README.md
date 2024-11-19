@@ -8,7 +8,8 @@
 Se consigue un buen ajuste paramétrico mediante ARIMA (1, 1, 2). Planteamos un 3-step-ahead point forecast.
 
 
-### I - Análisis Univariante de Series Temporales mediante Deep Learning (Euribor, Enero 1994 - Octubre 2024)
+
+### II - Análisis Univariante de Series Temporales mediante Deep Learning (Euribor, Enero 1994 - Octubre 2024)
 
 Elaborar un TSA del Euríbor en clave paramétrica supone una evidente dificultad, en tanto que un quiebre estructural observable de 74 meses del euríbor en territorio negativo (desde 02/2016 hasta 03/2022).
 
