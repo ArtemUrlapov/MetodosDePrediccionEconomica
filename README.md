@@ -11,7 +11,7 @@ Se consigue un buen ajuste paramétrico mediante ARIMA (1, 1, 2). Planteamos un 
 
 ### II - Análisis Univariante de Series Temporales mediante Deep Learning (Euribor, Enero 1994 - Octubre 2024)
 
-Elaborar un TSA del Euríbor en clave paramétrica supone una evidente dificultad, en tanto que un quiebre estructural observable de 74 meses de la serie temporal en territorio negativo (desde 02/2016 hasta 03/2022).
+Elaborar un TSA del Euríbor en clave paramétrica mediante un modelo ARIMA supone una evidente dificultad, en tanto que un quiebre estructural observable de 74 meses de la serie temporal en territorio negativo (desde 02/2016 hasta 03/2022).
 
 Adicionalmente, cuando el euríbor vuelve a entrar en territorio positivo, sólo disponemos de 31 muestras que, si quisiésemos analizar por separado, no sería un número estadísticamente robusto al separar el dataset en "train" y "test".
 
