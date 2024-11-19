@@ -17,8 +17,15 @@ Adicionalmente, cuando el euríbor vuelve a entrar en territorio positivo, sólo
 
 Por estos motivos, planteamos dos modelos de Deep Learning (Long Short-Term Memory y Gated Recurrent Units), dentro de Redes Neuronales Recurrentes, que pueden explotar mejor las particularidades previamente descritas.
 
+Incorporamos "early stopping" para hacer el proceso más eficiente.
+
 Conseguimos un buen ajuste, con un RMSE de algo más de > 2, y realizamos un 3-step-ahead point forecast.
 
 El conocimiento del contexto económico nos sugiere que el modelo LSTM (Long Short-Term Memory) es el más apropiado.
+
+
+### III - Análisis Multivariante de Series Temporales
+
+Próximamente.
 
 </p>
