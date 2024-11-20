@@ -19,7 +19,7 @@ Por estos motivos, planteamos dos modelos de Deep Learning (Long Short-Term Memo
 
 Incorporamos "early stopping" para hacer el proceso más eficiente.
 
-Conseguimos un buen ajuste, con un RMSE de algo más de > 2, y realizamos un 3-step-ahead point forecast.
+Conseguimos un buen ajuste, con un RMSE de algo más de 2 (que refleja la incertidumbre al final de la serie), y realizamos un 3-step-ahead point forecast.
 
 El conocimiento del contexto económico nos sugiere que el modelo LSTM (Long Short-Term Memory) es el más apropiado.
 
