@@ -28,4 +28,8 @@ El conocimiento del contexto económico nos sugiere que el modelo LSTM (Long Sho
 
 Próximamente.
 
+### IV - Resumen Teórico de Series Temporales
+
+Breve repaso de los aspectos de series temporales más fundamentales.
+
 </p>
