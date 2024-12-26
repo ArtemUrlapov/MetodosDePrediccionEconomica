@@ -30,6 +30,6 @@ Próximamente.
 
 ### IV - Resumen Teórico de Series Temporales
 
-Breve repaso de los aspectos de series temporales más fundamentales.
+Breve repaso de los aspectos de series temporales más fundamentales en el archivo "Time Series: A Summary".
 
 </p>
